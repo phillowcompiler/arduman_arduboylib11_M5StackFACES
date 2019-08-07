@@ -3,7 +3,7 @@
 You need to use [ArduboyOnM5StackFACES]("https://github.com/phillowcompiler/ArduboyOnM5StackFACES") Library!
 
 ## Screenshot
-![screenshot]("https://github.com/phillowcompiler/arduman_arduboylib11_M5StackFACES/blob/master/screenshot/arduman.jpg")
+![screenshot](https://github.com/phillowcompiler/arduman_arduboylib11_M5StackFACES/blob/master/screenshot/arduman.jpg)
 
 ## Original Description
 
