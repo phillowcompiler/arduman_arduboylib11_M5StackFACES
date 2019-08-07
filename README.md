@@ -1,9 +1,4 @@
-# Ardu-man(M5StackFACES Version)
-
-You need to use [ArduboyOnM5StackFACES]("https://github.com/phillowcompiler/ArduboyOnM5StackFACES") Library!
-
-
-## Original Description
+# Ardu-man
 
 For Arduboy lib 1.1 and the consumer Arduboy device
 

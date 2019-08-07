@@ -89,7 +89,7 @@ void ClearAndRedrawLevel()
 
 void main_setup()
 {
-	tunes.initChannel(PIN_SPEAKER_1);
+	tunes.initChannel(PIN_SPEAKER_1); 
 	tunes.initChannel(PIN_SPEAKER_2);
 
 	arduboy.begin();
@@ -268,5 +268,3 @@ void main_loop()
  }
   
 }
-
-
